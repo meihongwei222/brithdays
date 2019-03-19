@@ -207,7 +207,7 @@
 }
 .ly-stxt01 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -235,7 +235,7 @@
 
 .ly-stxt02 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -264,7 +264,7 @@
 
 .ly-stxt03 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -293,7 +293,7 @@
 
 .ly-stxt04 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -322,7 +322,7 @@
 
 .ly-stxt05 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -351,7 +351,7 @@
 
 .ly-stxt06 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	right: 5%;
@@ -379,7 +379,7 @@
 
 .ly-stxt07 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	right: 5%;
@@ -408,7 +408,7 @@
 
 .ly-stxt08 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	right: 5%;
@@ -437,7 +437,7 @@
 
 .ly-stxt09 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	right: 5%;
@@ -466,7 +466,7 @@
 
 .ly-stxt10 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	font-color: #000;
 	position: relative;
 	right: 5%;
@@ -624,7 +624,7 @@
 /*文本*/
 .ly-txt11 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -644,7 +644,7 @@
 	width: 100%;
 	word-wrap:break-word;
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 14px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -710,7 +710,7 @@
 /*文本*/
 .ly-txt13 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -730,7 +730,7 @@
 	word-wrap:break-word;
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 18px;
+	font-size: 13px;
 	font-color: #000;
 	position: absolute;
 	margin-left:10px;
@@ -841,7 +841,7 @@
 /*文本*/
 .ly-txt21 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -859,7 +859,7 @@
 
 .ly-txt22 {
 	font-family: Microsoft YaHei;
-	font-size: 13px;
+	font-size: 12px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -924,7 +924,7 @@
 /*文本*/
 .ly-txt23 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -942,7 +942,7 @@
 .ly-txt24 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1025,7 +1025,7 @@
 /*文本*/
 .ly-txt25 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -1043,7 +1043,7 @@
 .ly-txt26 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1176,7 +1176,7 @@
 /*文本*/
 .ly-txt31 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	position: absolute;
@@ -1196,7 +1196,7 @@
 	width: 100%;
 	word-wrap:break-word;
 	font-family: Microsoft YaHei;
-	font-size: 20px;
+	font-size: 14px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -1263,7 +1263,7 @@
 /*文本*/
 .ly-txt33 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 20px;
 	text-shadow: 1px;
 	font-color: #000;
 	opacity: 0;
@@ -1279,7 +1279,7 @@
 	word-wrap:break-word;
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 18px;
+	font-size: 12px;
 	font-color: #000;
 	opacity: 1;
 	transition: all 13s;
@@ -1335,7 +1335,7 @@
 .ly-txt51 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1398,7 +1398,7 @@
 .ly-txt61 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1424,7 +1424,7 @@
 .ly-txt71 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1603,7 +1603,7 @@
 .ly-txt72 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1643,7 +1643,7 @@
 .ly-txt73 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1705,7 +1705,7 @@
 }
 .ly-txt82 {
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	text-indent:1em;
 	font-color: #000;
 	position: absolute;
@@ -1793,7 +1793,7 @@
 .ly-txt84 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 15px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	margin-left:30px;
@@ -1812,7 +1812,7 @@
 }
 .ly-txt90 {
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -1830,7 +1830,7 @@
 }
 .ly-txt91 {
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -2009,7 +2009,7 @@
 .ly-txt92 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
@@ -2049,7 +2049,7 @@
 .ly-txt93 {
 	text-indent:2em;
 	font-family: Microsoft YaHei;
-	font-size: 14px;
+	font-size: 12px;
 	font-color: #000;
 	position: absolute;
 	width:80%;
